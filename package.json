@@ -1,0 +1,26 @@
+{
+  "name": "@codewell/is-empty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewell/is-empty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewell/is-empty/issues"
+  },
+  "homepage": "https://github.com/codewell/is-empty#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
