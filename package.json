@@ -14,13 +14,13 @@
     "url": "git+https://github.com/codewell/is-empty.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Filip Johansson",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/codewell/is-empty/issues"
   },
   "homepage": "https://github.com/codewell/is-empty#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^24.9.0"
   }
 }
